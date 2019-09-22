@@ -1,0 +1,22 @@
+body {
+	width:1024px;	
+	background: rgb(222, 251, 255);
+	margin: auto; 
+	font-family: "Lato", "Arial", sans-serif;
+}
+
+h1, h2, h3 {
+	color: #0f2d99;
+}
+
+p {
+	font-size: 1em;
+}
+
+img {
+	width: 500px;
+}
+
+@media (max-width: 900px) {
+  body {width: 600px;}
+}
